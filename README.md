@@ -2,7 +2,7 @@
 
 
 
-My name is Murage and I'm a python developer. I'm from Kenya, living in Canada and currently working on neuroimaging analysis. 
+My name is Murage and I'm a python developer. I am from Kenya and currently living in Canada, where I work on analysing neuroimaging data using python & nilearn. 
 
 
 ## 🔧 Technologies & Tools
