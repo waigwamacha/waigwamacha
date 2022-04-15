@@ -14,6 +14,10 @@ My name is Murage and I'm a python developer. I am from Kenya and currently livi
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
+## &#x270d; Writing
+
+Apart from coding, I love writing. I help maintain the website for a mental health nonprofit, [Project AKILI](https://projectakili.com/).
+
 
 <!--
 **waigwamacha/waigwamacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
