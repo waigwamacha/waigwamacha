@@ -18,6 +18,19 @@ My name is Murage and I'm a python developer. I am from Kenya and currently livi
 
 Apart from coding, I love writing. I help maintain the website for a mental health nonprofit, [Project AKILI](https://projectakili.com/).
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/waigwamacha/waigwamacha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waigwamacha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/waigwamacha/waigwamacha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waigwamacha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Waigwa's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/nilearn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waigwamacha&repo=nilearn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!--
 **waigwamacha/waigwamacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
