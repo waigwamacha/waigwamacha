@@ -32,8 +32,8 @@ Apart from coding, I love writing. I help maintain the website for a mental heal
 </a>
 
 
-<a href="https://github.com/waigwamacha/nyotaacademy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waigwamacha&repo=nyotaacademy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/waigwamacha/cryptum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waigwamacha&repo=cryptum&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!--
