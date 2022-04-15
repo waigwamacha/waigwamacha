@@ -27,8 +27,8 @@ Apart from coding, I love writing. I help maintain the website for a mental heal
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waigwamacha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Waigwa's GitHub Stats" />
 </a>
 
-<a href="https://github.com/waigwamacha/nilearn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waigwamacha&repo=nilearn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/waigwamacha/Journal_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waigwamacha&repo=Journal_App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/waigwamacha/nyotaacademy">
