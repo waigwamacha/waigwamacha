@@ -12,7 +12,7 @@ My name is Murage and I am a python developer. I am from Kenya and currently liv
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/static/v1?logo=make&label=&message=make&color=111&logoColor=AAA&style=flat-square)
+![spark](https://img.shields.io/static/v1?logo=spark&label=&message=Make&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
