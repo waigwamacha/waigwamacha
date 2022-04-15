@@ -16,7 +16,7 @@ My name is Murage and I am a python developer. I am from Kenya and currently liv
 
 ## &#x270d; Writing
 
-Apart from coding, I love writing. I help maintain the website for a mental health nonprofit, [Project AKILI](https://projectakili.com/).
+Apart from coding, I love writing. I help maintain the website for a mental health nonprofit [Project AKILI](https://projectakili.com/).
 
 ## &#x1f4c8; GitHub Stats
 
