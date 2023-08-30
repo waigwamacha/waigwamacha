@@ -2,7 +2,7 @@
 
 
 
-My name is Murage. I am from Kenya and currently living in Canada, where I work at the FORBOW lab as a data analyst. I analyse neuroimaging data using python, pandas, numpy to understand the early indicators mental illness in youth. 
+My name is Murage. I am currently living in Canada, where I work at the FORBOW lab as a data analyst. I analyse neuroimaging data using python, pandas, numpy to understand the early indicators of mental illness in youth. 
 
 
 ## 🔧 Technologies & Tools
