@@ -16,6 +16,7 @@ My name is Murage. I am from Kenya and currently living in Canada, where I work 
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)  
 ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![sql](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
 ## &#x270d; Writing
