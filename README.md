@@ -1,11 +1,10 @@
-### Hello I'm, Murage. 
+### Hello I'm, Murage 🕵🏽 
 
 <p align="center">
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational Psychiatry :rocket: Scientific computing 
 </p>
 
 🎓 Msc in Medical Neuroscience, now a :computer: Data Analyst working on neuroimaging markers of mental illness using machine learning and large datasets. 
-# 🕵🏽
 
 ## 🔧 Technologies & Tools
 
