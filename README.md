@@ -4,7 +4,7 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational Psychiatry :rocket: Scientific computing 
 </p>
 
-Msc in Medical Neuroscience, now a :computer: Data Analyst working on neuroimaging markers of mental illness 🕵🏽 using machine learning and large datasets 
+Msc in Medical Neuroscience, now a :computer: Data Analyst working on neuroimaging markers of mental illness 🕵🏽 using machine learning and large datasets. 
 
 
 ## 🔧 Technologies & Tools
@@ -12,11 +12,8 @@ Msc in Medical Neuroscience, now a :computer: Data Analyst working on neuroimagi
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![Machine Learning](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=Make&color=111&logoColor=AAA&style=flat-square)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)  
 ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
@@ -24,7 +21,7 @@ Msc in Medical Neuroscience, now a :computer: Data Analyst working on neuroimagi
 
 ## &#x270d; Writing
 
-Apart from coding, I love writing. I maintain the website for a mental health nonprofit: [Project AKILI](https://projectakili.com/).
+I love writing and I maintain the website for a mental health nonprofit: [Project AKILI](https://projectakili.com/).
 
 <!-- ## &#x1f4c8; GitHub Stats
 
