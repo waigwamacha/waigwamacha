@@ -1,4 +1,4 @@
-### Hello I', Murage. 
+### Hello I'm, Murage. 
 
 <p align="center">
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational Psychiatry :rocket: Scientific computing 
