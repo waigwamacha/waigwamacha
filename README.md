@@ -1,14 +1,20 @@
-### Hello!
+### Hello I', Murage. 
 
+<p align="center">
+🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational psychiatry :rocket: Scientific computing 
+</p>
 
+Msc in Medical Neuroscience, now a :computer: Data Analyst working on neuroimaging markers of mental illness 🕵🏽 using machine learning and large datasets 
 
-My name is Murage. I am currently living in Canada, where I work at the FORBOW lab as a data analyst. I analyse neuroimaging data to understand the early indicators of mental illness in youth. 
+I analyse neuroimaging data to understand the early indicators of mental illness in youth. 
 
 
 ## 🔧 Technologies & Tools
 
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![Machine Learning](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
