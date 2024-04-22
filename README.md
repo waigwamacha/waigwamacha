@@ -21,7 +21,7 @@ Msc in Medical Neuroscience, now a :computer: Data Analyst working on neuroimagi
 
 ## &#x270d; Writing
 
-I love writing and I maintain the website for a mental health nonprofit: [Project AKILI](https://projectakili.com/).
+I love writing and I maintain the website for a mental health nonprofit, [Project AKILI](https://projectakili.com/).
 
 <!-- ## &#x1f4c8; GitHub Stats
 
