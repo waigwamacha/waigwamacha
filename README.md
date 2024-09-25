@@ -9,9 +9,7 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)  
 <!-- ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=AAA&style=flat-square) -->
