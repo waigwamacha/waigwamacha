@@ -12,7 +12,8 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+#![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)  
 <!-- ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=AAA&style=flat-square) -->
 <!--  ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square) -->
