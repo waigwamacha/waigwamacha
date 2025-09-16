@@ -4,7 +4,7 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational Psychiatry :rocket: Scientific computing 
 </p>
 
-🎓 Msc in Medical Neuroscience, now a :computer: Research Statistician working on predicting the risk of mental illness using [machine learning](https://github.com/waigwamacha/BrainAgeAI/tree/main) (XGBoost & CNNs). 
+🎓 Msc in Medical Neuroscience, now a :computer: Research Statistician working on predicting the risk of mental illness using [machine learning](https://github.com/waigwamacha/cnnmlpclassifier) (XGBoost & CNNs). 
 
 ## 🔧 Technologies & Tools
 
