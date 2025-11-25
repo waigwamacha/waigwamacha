@@ -4,7 +4,7 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational Psychiatry :rocket: Scientific computing 
 </p>
 
-🎓 Msc in Medical Neuroscience, now a :computer: Research Statistician working on predicting the onset of mental illness using multimodal data (brain images, clinical questionnaires, speech). Key statistical methods I've used are linear mixed models, survival anlysis and [machine learning](https://github.com/waigwamacha/cnnmlpclassifier) (XGBoost & CNNs). 
+Since August 2023, I have been working full time at Nova Scotia health as a Research statistician. 🎓 Msc in Medical Neuroscience, now a :computer: Research Statistician. My work mainly involves managing neuroimaging datasets and conducting statistical analyses to predict the onset of depression using multimodal data (brain images, clinical questionnaires). I use linear mixed models, survival anlysis and [machine learning](https://github.com/waigwamacha/cnnmlpclassifier) (XGBoost, survival random forests & CNNs). 
 
 ## 🔧 Technologies & Tools
 
