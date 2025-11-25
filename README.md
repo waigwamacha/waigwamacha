@@ -8,7 +8,6 @@ Since August 2023, I have been working full time at Nova Scotia health as a Rese
 
 In 2023, I completed a Msc in Medical Neuroscience 🎓, where I studied the association of the brain's functional connectivity and familial risk for mood disorders. 
 
-Before I delved in statistics and machine learning, way back in 2017, I had studied fiction at NYU.  I also taught fiction to undergraduate students in 2018 & 2019. I especially enjoyed reading Kafka, Virginia Woolfe, Chekhov, Borges and Lun Xun. In recent years, I have been reading William Saroyan & Dostoevsky, and thoroughly enjoy Banu Mushtaq's Heart Lamp. 
 
 ## 🔧 Technologies & Tools
 
@@ -21,6 +20,8 @@ Before I delved in statistics and machine learning, way back in 2017, I had stud
 &nbsp;&nbsp;&nbsp;
 
 ## &#x270d; Writing
+
+Before I delved in statistics and machine learning, way back in 2017, I had studied fiction at NYU, where I also taught fiction to undergraduate students in 2018 & 2019. I especially enjoyed reading Kafka, Virginia Woolfe, Chekhov, Borges and Lun Xun. In recent years, I have been reading William Saroyan & Dostoevsky, and thoroughly enjoy Banu Mushtaq's Heart Lamp. 
 
 I love writing and I maintain the website for a mental health nonprofit, [Project AKILI](https://projectakili.com/).
 
