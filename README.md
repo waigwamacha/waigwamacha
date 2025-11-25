@@ -4,7 +4,11 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational Psychiatry :rocket: Scientific computing 
 </p>
 
-Since August 2023, I have been working full time at Nova Scotia health as a Research statistician. 🎓 Msc in Medical Neuroscience, now a :computer: Research Statistician. My work mainly involves managing neuroimaging datasets and conducting statistical analyses to predict the onset of depression using multimodal data (brain images, clinical questionnaires). I use linear mixed models, survival anlysis and [machine learning](https://github.com/waigwamacha/cnnmlpclassifier) (XGBoost, survival random forests & CNNs). 
+Since August 2023, I have been working full time at Nova Scotia health as a Research statistician :computer:. My work mainly involves managing neuroimaging datasets and conducting statistical analyses to predict the onset of depression using multimodal data (brain images, clinical questionnaires). I use linear mixed models, survival anlysis and [machine learning](https://github.com/waigwamacha/cnnmlpclassifier) (XGBoost, survival random forests & CNNs). 
+
+In 2023, I completed a Msc in Medical Neuroscience 🎓, where I studied the association of the brain's functional connectivity and familial risk for mood disorders. 
+
+Before I delved in statistics and machine learning, way back in 2017, I had studied fiction at NYU.  I also taught fiction to undergraduate students in 2018 & 2019. I especially enjoyed reading Kafka, Virginia Woolfe, Chekhov, Borges and Lun Xun. In recent years, I have been reading William Saroyan.
 
 ## 🔧 Technologies & Tools
 
