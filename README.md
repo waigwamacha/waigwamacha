@@ -21,8 +21,7 @@ In 2023, I completed a Msc in Medical Neuroscience 🎓, where I studied the ass
 
 ## &#x270d; Writing
 
-Before I delved in statistics and machine learning, way back in 2017, I had studied fiction at New York University, where I also taught fiction to undergraduate students in 2018 & 2019. 
-I love writing and I maintain the website for a mental health nonprofit, [Project AKILI](https://projectakili.com/).
+Before I delved in statistics and machine learning, way back in 2017, I had studied fiction at New York University, where I also taught fiction to undergraduate students in 2018 & 2019. I maintain the website for a mental health nonprofit, [Project AKILI](https://projectakili.com/).
 
 <!-- ## &#x1f4c8; GitHub Stats
 
