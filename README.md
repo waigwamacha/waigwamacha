@@ -6,7 +6,7 @@
 
 Since August 2023, I have been working full time at Nova Scotia health as a Research statistician :computer:. My work mainly involves managing & processing neuroimaging datasets (MRI, fMRI, DTI), and conducting statistical analyses to predict the onset of depression using multimodal data (brain images, clinical questionnaires). I use linear mixed models, survival analysis and machine learning ([XGBoost](https://github.com/waigwamacha/brainageprediction), SVM, survival random forests & [CNNs](https://github.com/waigwamacha/cnnmlpclassifier)). 
 
-In 2023, I completed a Msc in Medical Neuroscience 🎓, where I studied the association of the brain's functional connectivity and familial risk for mood disorders. 
+In 2023, I completed a Msc in Medical Neuroscience 🎓, where I studied the association of the brain's functional connectivity and familial risk for mood disorders. I [presented](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(23)00318-9/abstract) and (published](https://cdnsciencepub.com/doi/epdf/10.1503/jpn.250002) the results from this research.
 
 
 ## 🔧 Technologies & Tools
